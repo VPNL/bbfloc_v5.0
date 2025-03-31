@@ -6,7 +6,8 @@ This is an experiment tailored for infant and child subjects - that integrates d
 
 runs alternate so that:  
     - **odd runs**: combined stim presentation. 7 mins and 36 seconds, w/ 6 seconds countdown, 16 second blocks that repeat three times per category with 8 sec baselines       
-    interspersed between every 3 blocks.
+    interspersed between every 3 blocks. 
+    #
     - **even runs**: KOSAKOWSKI STIM ONLY! 3 mins and 26s, w/ 6 seconds countdown, 16 second blocks that repeat twice per category with 8 sec baselines interspersed between 
     each block. 
 
